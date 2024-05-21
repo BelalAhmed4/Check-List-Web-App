@@ -37,7 +37,10 @@ check-list-app/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # CSS for styling
-└── script.js           # JavaScript for functionality
+├── script.js           # JavaScript for functionality
+└── imgs/               # Directory containing images
+    └── [image files]
+
 ```
 
 ## Code Overview
