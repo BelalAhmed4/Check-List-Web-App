@@ -12,7 +12,7 @@ The Check List App is a lightweight and intuitive to-do list application. Users 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/check-list-app.git
+   git clone https://github.com/BelalAhmed4/check-list-app.git
    ```
 2. Navigate to the project directory:
    ```bash
